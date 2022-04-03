@@ -7,3 +7,4 @@
 Al3sKa/Al3sKa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![a6d874e6-0047-4d6a-a2ed-06de91040c9a-profile_image-300x300](https://user-images.githubusercontent.com/68668508/161415755-a4aed64d-2636-47ea-bd55-609aefed270a.png)
