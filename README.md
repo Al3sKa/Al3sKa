@@ -15,7 +15,7 @@
 
 > **Medios de comunicación:**
 
-| [Telegram](t.me/Al3sKa) | [E-Mail](alevegaskali@gmail.com) | [Discord](dsc.gg/ArenaNex) | [Twitter](twitter.com/Al3sKaTheCatFox)
+| [Telegram](https://t.me/Al3sKa) | E-Mail (alevegaskali@gmail.com) | [Discord](https://dsc.gg/ArenaNex) | [Twitter](https://twitter.com/Al3sKaTheCatFox)
 | ------------- | ------------- | ------------- | ------------- |
 
 Si tienes alguna pregunta, alguna duda o alguna sugerencia, no dudes en compartirmelo. Trataré de resolverla cuando pueda. ¡Sin más por el momento me despido y checa otros proyectos que guardo por aquí!
