@@ -7,6 +7,7 @@
 - 👀 Actualmente estoy buscando aprender C++ y Basic para desarrollar los proyectos que he mencionado arriba. Lo sé, son un poco abstractos, pero pronto me acostumbraré y utilizaré a lo mejor otros lenguajes. ^^ 
 
 ![Por hacer](https://user-images.githubusercontent.com/68668508/161416239-280e5eeb-c70f-4316-97dd-a2e05b4e8635.png)
+![photo_2022-08-05_19-35-51](https://user-images.githubusercontent.com/68668508/183226493-21a69861-dfd2-4c8b-b957-9ad5fad2200e.jpg)
 
 ## ¿Qué hago actualmente?
 - 🌱 Hoy en día uso C++ como mi lenguaje de aprendizaje. Basic lo uso más como un lenguaje de receso o juego en sí. En estos días, la preparatoria ha estado exigiendo ciertos trabajos que no puedo hacer rápido. Contiene esfuerzo y talento. ¡Y mi tiempo para continuar haciendo mis dibujos, vídeos y música me queda corto! Espero poder terminar rápido...
