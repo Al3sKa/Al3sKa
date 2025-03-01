@@ -18,7 +18,7 @@
 
 > **Medios de comunicación:**
 
-| [Telegram](https://t.me/Al3sKa) | E-Mail (al3ska@duck.com) | [Discord](https://dsc.gg/ArenaNex) | [Twitter](https://twitter.com/Al3sKaTheCatFox)
+| [Telegram](https://t.me/Al3sKa) | E-Mail (al3ska@duck.com) | [Discord](https://dsc.gg/NexKit) | [Twitter](https://twitter.com/ElAl3sKa)
 | ------------- | ------------- | ------------- | ------------- |
 
 Si tienes alguna pregunta, alguna duda o alguna sugerencia, no dudes en compartírmelo. Trataré de resolverla cuando pueda. ¡Sin más por el momento me despido y checa otros proyectos que guardo por aquí!
